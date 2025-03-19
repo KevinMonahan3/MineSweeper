@@ -1,5 +1,9 @@
 ## MineSweeper
 
+<p align="center">
+  <img width="460" height="300" src="minesweeper.jpg">
+</p>
+
 This is a minesweeper I created in my 1st year of college to help me get more familiar with creating a GUI in Java. It is coded soley in Java and uses JFrame for GUI controls.
 
 ## Project info
